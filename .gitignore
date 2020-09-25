@@ -9,5 +9,8 @@
 *.gz
 *.phtml
 *.html.gz
+*.png
+*.jpg
+*.bmp
 !/wp-content/cache/
 !wp-content/cache/
