@@ -1,0 +1,13 @@
+# hult
+*.php
+*.html
+*.xml
+*.po
+*.mo
+*.htaccess
+*.zip
+*.gz
+*.phtml
+*.html.gz
+!/wp-content/cache/
+!wp-content/cache/
