@@ -1,11 +1,11 @@
 @charset "utf-8";
 /*
 	Theme Name: Adams
-	Theme URL: https://www.pishifu.org
+	Theme URL: https://biji.io
 	Description: Simple is beautiful
 	Author: Tokin
 	Author URI: https://biji.io
-	Version: 1.5.2
+	Version: 1.5.3
 */
 /* Reset */
 html { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
@@ -17,7 +17,7 @@ body{background: #FFF;font:1rem/1.5  "lucida grande", "lucida sans unicode", luc
 html,body{overflow-x:hidden;-webkit-overflow-scrolling: touch;-overflow-scrolling: touch;}
 html{/* height:100%; */}
 ol, ul { list-style: none; }
-input,textarea,button {outline:none;border: inset;}
+input,textarea,button {outline:none;border:ridge;-webkit-appearance:auto;}
 blockquote,q {quotes:none;}
 blockquote:before,blockquote:after,q:before,q:after {content:none;}
 blockquote,q {background:#fafafa;margin:20px 0;padding:2.5rem 4rem;position:relative;word-wrap:break-word;}
