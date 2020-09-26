@@ -1,7 +1,6 @@
 # hult
 *.php
 *.html
-*.xml
 *.po
 *.mo
 *.htaccess
