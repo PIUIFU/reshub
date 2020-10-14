@@ -20,7 +20,7 @@
 .erphp-icon-crown-s:before {content: "\e8d2";}
 .erphp-icon-lock:before {content: "\e655";}
 
-.erphpdown{overflow:hidden;border: 2px dashed #ff5f33 !important;padding:10px 15px 15px 45px !important;font-size: 14px;position: relative;line-height: 1.5;margin:0 0 20px;}
+.erphpdown{overflow:hidden;border: 2px dashed #ff5f33 !important;padding:10px 15px 15px 45px !important;font-size: 14px !important;position: relative;line-height: 1.5 !important;margin:0 0 20px !important;}
 .erphpdown:before{font-family: "erphp-iconfont" !important;font-size: 20px;font-style: normal;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;content: "\e655";position: absolute;left: 15px;top: calc(50% - 8px);opacity: .8;line-height: 30px;}
 .erphpdown > legend{padding:0 5px;color: #ff5f33;font-weight: bold;font-size: 15px;margin: 0 0 0 -30px !important;border: none !important;display: inline-block !important;width: inherit !important;line-height: 1.5 !important}
 .erphpdown .erphpdown-price{padding:0 5px;color: #E14D43;font-weight: bold;font-size: 120%;line-height: 1.2}
@@ -32,6 +32,7 @@
 .erphpdown .erphpdown-item{margin-bottom: 5px;text-align: left;}
 .erphpdown .erphp-login-must{border-radius: 20px;background:#ff5f33;color:#fff !important;padding:2px 10px;text-decoration: none !important;font-size: 13px;display: inline-block;margin-left: 8px;}
 .erphpdown .epdvip{position: absolute;top:-2px;right: -2px;background:#ff5f33;color:#fff;padding:2px 5px 1px;font-size: 12px;}
+.erphpdown p:empty{margin:0;}
 .erphpdown-content-vip{padding:10px 15px 15px 45px;border:2px dashed #ff5f33;line-height: 1.5;margin-bottom: 20px;font-size: 14px;}
 .erphpdown-content-vip-see{border-color:#1cce10;}
 .erphpdown-content-vip-see .erphpdown-see-btn{background: #1cce10}
@@ -39,9 +40,9 @@
 .erphpdown-title{font-size:16px;margin-bottom: 5px;position: relative;color:#ff5f33;}
 .erphpdown-free{margin-bottom: 15px;}
 
-.erphpdown .erphpdown-child{margin-bottom: 10px;border:1px dashed #999;padding:5px 10px 8px;}
+.erphpdown .erphpdown-child{margin-bottom: 0 0 10px !important;border:1px dashed #999 !important;padding:5px 10px 8px !important;}
 .erphpdown .erphpdown-child:last-child{margin-bottom: 10px;}
-.erphpdown .erphpdown-child > legend{padding:0 5px;color: #666;border:none !important;display: inline-block !important;width: inherit !important;font-size: 13px;margin:0 !important;}
+.erphpdown .erphpdown-child > legend{padding:0 5px;color: #666;border:none !important;display: inline-block !important;width: inherit !important;font-size: 13px !important;margin:0 !important;}
 
 #erphpdown-paybox{font-family:'Microsoft Yahei','Sans-serif';font-size:14px;margin: 0 auto;
     position: relative;max-width: 314px;}
