@@ -4,7 +4,7 @@ Donate link: https://www.wbolt.com/
 Tags: Baidu, SEO, Keyword, Description, Title, Alt, URL rewrite
 Requires at least: 5.2
 Tested up to: 5.5.1
-Stable tag: 2.4.4
+Stable tag: 2.4.5
 License: GNU General Public License v2.0 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,7 +40,7 @@ Smart SEO Tool是一款专门针对WordPress开发的智能SEO优化插件，与
 
 ### 功能模块四：404监测-依赖蜘蛛爬虫日志对404链接进行跟踪
 
-该功能需要另外安装<a href='https://www.wbolt.com/plugins/sipder-analyser?utm_source=wp&utm_medium=link&utm_campaign=sst' rel='friend' title='蜘蛛统计插件'>蜘蛛统计插件</a>，对所有蜘蛛爬取的URL链接404错误响应状态进行跟踪，以便于站长快速了解网站存在哪些404链接。
+该功能需要另外安装<a href='https://www.wbolt.com/plugins/spider-analyser?utm_source=wp&utm_medium=link&utm_campaign=sst' rel='friend' title='蜘蛛统计插件'>蜘蛛统计插件</a>，对所有蜘蛛爬取的URL链接404错误响应状态进行跟踪，以便于站长快速了解网站存在哪些404链接。
 
 404监测列表数据包括URL地址、响应码、反馈蜘蛛、访问时间及操作项（刷新状态及忽略）。后续插件也将会增加URL重定向功能，敬请期待。
 
@@ -59,7 +59,7 @@ Smart SEO Tool是一款专门针对WordPress开发的智能SEO优化插件，与
 * 相对于其他sitemap插件，我们的插件sitemap配置更加容易理解及使用。
 * 提供Nginx和Apache伪静态及URL重写规则参考，以帮助站解决插件无法生成sitemap问题。
 
-Smart SEO Tool插件是闪电博专门为WordPress网站开发的SEO优化插件之一，帮助国内站长实现WordPress网站博客SEO基本优化。区别于大部分其他SEO优化插件，该插件简单易用及更符合国内站长需求。WordPress站长可以利用该插件，并结合<a href='https://www.wbolt.com/plugins/skt?utm_source=wp&utm_medium=link&utm_campaign=sst' rel='friend' title='热门关键词推荐插件'>热门关键词推荐插件</a>、<a href='https://www.wbolt.com/plugins/bsl?utm_source=wp&utm_medium=link&utm_campaign=sst' rel='friend' title='百度推送插件'>百度推送插件</a>和<a href='https://www.wbolt.com/plugins/sipder-analyser?utm_source=wp&utm_medium=link&utm_campaign=sst' rel='friend' title='蜘蛛统计分析插件'>蜘蛛统计分析插件</a>，对WordPress网站内容的搜索引擎收录及排名优化可以做到事半功倍的效果！
+Smart SEO Tool插件是闪电博专门为WordPress网站开发的SEO优化插件之一，帮助国内站长实现WordPress网站博客SEO基本优化。区别于大部分其他SEO优化插件，该插件简单易用及更符合国内站长需求。WordPress站长可以利用该插件，并结合<a href='https://www.wbolt.com/plugins/skt?utm_source=wp&utm_medium=link&utm_campaign=sst' rel='friend' title='热门关键词推荐插件'>热门关键词推荐插件</a>、<a href='https://www.wbolt.com/plugins/bsl?utm_source=wp&utm_medium=link&utm_campaign=sst' rel='friend' title='百度推送插件'>百度推送插件</a>和<a href='https://www.wbolt.com/plugins/spider-analyser?utm_source=wp&utm_medium=link&utm_campaign=sst' rel='friend' title='蜘蛛统计分析插件'>蜘蛛统计分析插件</a>，对WordPress网站内容的搜索引擎收录及排名优化可以做到事半功倍的效果！
 
 == Installation ==
 
@@ -152,6 +152,11 @@ WordPress默认生成的中文标签对应的URL地址对搜索引擎不太友�
 7. 失效URL链接管理界面.
 
 == Changelog ==
+
+= 2.4.5 =
+* 优化插件默认robots.txt规则设置，增加Noindex规则及优化disallow规则；
+* 修改插件部分功能文字描述及使用说明；
+* 修复其他已知bug及体验问题。
 
 = 2.4.4 =
 * 新增404监测功能，快速定位解决404错误URL地址；
