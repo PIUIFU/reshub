@@ -5,8 +5,8 @@ Plugin URI: http://www.iwebss.com/wordpress/1300-auto-login-new-user-registratio
 Donate link: https://www.paypal.me/jsherk/10usd
 Tags: auto,login,after,register,registration,automatically,new,user,redirect,disable,admin,notification,email,administrator,password,field,fields,add,page,create,lastname,last,name,firstname,first,name
 Requires at least: 4.3.1
-Tested up to: 5.5
-Stable tag: 1.9.3
+Tested up to: 5.6
+Stable tag: 1.9.4
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0
 
@@ -33,6 +33,9 @@ This plugin has the following great features:
 1. Settings page
 
 == Change Log ==
+
+= 1.9.4 =
+* Thanks to metapml for the Brazilian Portuguese translation.
 
 = 1.9.3 =
 * Compatible with WordPress v5.5
