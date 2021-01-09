@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <link href="https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-content/themes/adams/style.css?v1.5.3" type="text/css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-content/themes/adams/static/caomei/style.css?v1.5.3" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-content/plugins/erphpdown/static/erphpdown.css?ver=11.2">
+    <title>发现了一个Win10自带的宝藏应用-Snip &#038; Sketch &#8211; 皮师傅</title>
+<link rel='dns-prefetch' href='//cdn.staticfile.org' />
+<link rel='dns-prefetch' href='//www.pishifu.org' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='erphpdown-css'  href='https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-content/plugins/erphpdown/static/erphpdown.css?ver=11.2' type='text/css' media='screen' />
+<script type='text/javascript' src='//cdn.staticfile.org/jquery/3.1.1/jquery.min.js?ver=v1.5.3' id='jquery-min-js'></script>
+<script type='text/javascript' src='//cdn.staticfile.org/qrcodejs/1.0.0/qrcode.min.js?ver=v1.5.3' id='qrcode-js-js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-content/themes/adams/static/script.js?ver=v1.5.3' id='script-js-js'></script>
+<script type='text/javascript' src='//cdn.staticfile.org/prettify/r298/prettify.js?ver=v1.5.3' id='prettify-js'></script>
+<script type='text/javascript' src='//cdn.staticfile.org/instantclick/3.0.1/instantclick.min.js?ver=v1.5.3' id='instantclick-js'></script>
+<link rel="https://api.w.org/" href="https://www.pishifu.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.pishifu.org/wp-json/wp/v2/posts/216" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.pishifu.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-includes/wlwmanifest.xml" /> 
+<link rel="canonical" href="https://www.pishifu.org/archives/216" />
+<link rel='shortlink' href='https://www.pishifu.org/?p=216' />
+	<style id="erphpdown-custom"></style>
+	<script>window._ERPHPDOWN = {"uri":"https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-content/plugins/erphpdown", "payment": "1", "author": "mobantu"}</script>
+</head>
+<body>
+<script>
+        document.addEventListener("DOMContentLoaded", (event) => {
+        let mode = getComputedStyle(document.documentElement).getPropertyValue('content');
+        if (mode.indexOf('dark') > -1 && !$('body').is('.night')) {
+            $('.setting_tool .c ul li.night').click()
+        }
+        if (mode.indexOf('light') > -1 && !$('body').is('.undefined')) {
+            $('.setting_tool .c ul li.undefined').click()
+        }
+    });
+        $("body").addClass(localStorage.adams_color_style || "").addClass(localStorage.adams_font_style || "");
+</script>
+<!-- Header -->
+<header class="header">
+    <section class="container">
+        <hgroup itemscope itemtype="https://schema.org/WPHeader">
+            <h1 class="fullname">  发现了一个Win10自带的宝藏应用-Snip &#038; Sketch</h1>
+        </hgroup>
+        <div class="menu"><ul>
+<li id="menu-item-145" class=""><a></a></li>
+<li id="menu-item-3" class=""><a></a></li>
+</ul></div>
+<nav class="header_nav"><ul id="menu-index" class="menu"><li id="menu-item-69" class="czs-home-l menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-69"><a href="https://www.pishifu.org">首页</a></li>
+<li id="menu-item-68" class="czs-write-l menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-68"><a href="https://www.pishifu.org/archives/category/logs">笔记</a></li>
+</ul></nav>    </section>
+
+    <section class="infos">
+        <div class="container">
+                            <h2 class="fixed-title"></h2>
+                <!--<div class="fixed-menus"></div>-->
+
+                <div class="fields">
+                    <span><i class="czs-time-l"></i> <time datetime="2020-09-26T02:50:56+08:00" title="2020-09-26T02:50:56+08:00"
+                                                           itemprop="datePublished" pubdate>2020-09-26</time></span> /
+                    <span><i class="czs-talk-l"></i> 0评</span> /
+                    <a href="javascript:;" data-action="topTop" data-id="216"
+                       class="dot-good ">
+                        <i class="czs-thumbs-up-l"></i><i class="czs-thumbs-up"></i>
+                        <span class="count">1</span>赞
+                    </a>
+                </div>
+
+                <div class="socials">
+                    <div class="donate">
+                        <a href="javascript:;"><i class="czs-coin-l s"></i><i class="czs-coin h"></i> 赏</a>
+                        <div class="window">
+                            <ul>
+                                <li class="alipay"><img src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/alipay.png"/></li>                                <li><img src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/wxpay-1.png"/></li>                            </ul>
+                        </div>
+                    </div>
+                    <div class="share">
+                        <a href="javascript:void(0);"
+                           data-qrcode="//api.qrserver.com/v1/create-qr-code/?size=150x150&margin=10&data=https://www.pishifu.org/archives/216">
+                            <i class="czs-scan-l s"></i><i class="czs-qrcode-l h"></i> 码</a>
+                        <div class="qrcode"><div class="img-box"></div> <i>移动设备上继续阅读</i></div>
+                    </div>
+                </div>
+                    </div>
+    </section>
+</header><!-- Content -->
+<section class="container">
+    <article class="post_article" itemscope itemtype="https://schema.org/Article">
+        
+<p>截图应该是任何人群在互联网/电脑使用中必然会用到的“基本操作”了，但是大多数网友似乎对截图这个操作往往和聊天软件挂上钩，也没错，作为符合国人操作习惯的IM软件没有截图功能怎么行，但是有没有想过一种极端又罕见的情况？——电脑没有网络无法登录聊天软件的情况，或者并不方便登录聊天软件的情况下。然而手持华为小本子预装的Win10家庭版发现了这么个小东东，先来两张图</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-1024x683.png" alt="" class="wp-image-217" srcset="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-1024x683.png 1024w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-300x200.png 300w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-768x512.png 768w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-1536x1024.png 1536w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-2048x1365.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="529" height="353" src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-1.png" alt="" class="wp-image-218" srcset="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-1.png 529w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-1-300x200.png 300w" sizes="(max-width: 529px) 100vw, 529px" /></figure>
+
+
+
+<p>上面第一张图属于全屏截图，可以用任意版本Windows自带截屏工具获得，按下键盘上的<code class="prettyprint" >Prtsc</code>键即可，下面那张图就是使用Win10系统下的Snip &amp; Sketch工具进行矩形区域截图，看一下Snip软件界面</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="800" src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-2-1024x800.png" alt="" class="wp-image-219" srcset="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-2-1024x800.png 1024w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-2-300x234.png 300w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-2-768x600.png 768w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-2.png 1537w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="800" src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-4-1024x800.png" alt="" class="wp-image-221" srcset="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-4-1024x800.png 1024w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-4-300x234.png 300w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-4-768x600.png 768w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-4.png 1537w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>注意：该软件目前我是在机器预装Windows10 家庭版中找到，不确定诸如其他Ghost版本的系统或Win7/8中有该功能，不过应该都可以下载到安装，该软件可以替换掉系统原有截屏工具的<code class="prettyprint" >Prtsc</code>键的全屏截图为Snip的多功能截图，拥有矩形截屏、任意形状截屏、窗口截屏和全屏截屏等功能在顶部工具栏可供选择。设置方法如下，Win10系统中搜索snip</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="905" src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-5-1024x905.png" alt="" class="wp-image-222" srcset="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-5-1024x905.png 1024w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-5-300x265.png 300w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-5-768x679.png 768w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-5.png 1204w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>打开软件后找到右上角三个点菜单里的“Settings”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="800" src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-6-1024x800.png" alt="" class="wp-image-223" srcset="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-6-1024x800.png 1024w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-6-300x234.png 300w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-6-768x600.png 768w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-6-1536x1199.png 1536w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-6.png 1538w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>点击设置界面顶部的蓝色链接“Use the Prtscn Button to open screen snipping”</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="800" src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-7-1024x800.png" alt="" class="wp-image-224" srcset="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-7-1024x800.png 1024w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-7-300x234.png 300w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-7-768x600.png 768w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-7.png 1537w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>紧接着进入系统设置后确认打开如下选项“使用PrtScn按键打开屏幕截图”即可</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="955" src="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-8-1024x955.png" alt="" class="wp-image-225" srcset="https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-8-1024x955.png 1024w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-8-300x280.png 300w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-8-768x716.png 768w, https://cdn.jsdelivr.net/gh/piuifu/blog_img/wp-content/uploads/2020/09/image-8.png 1240w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>接下来裸奔系统不运行任何其它聊天软件或第三方截图软件就可以使用Prtsc键随心所欲的截图了，但是目前我发现一个弊端，Snip软件本身只支持简单的画图编辑截屏图片，不支持拉直线箭头，画矩形、圆形、键入文本等等，我上面那个100分也是我在屏幕上写出来的。。。这方面功能相对微信/QQ客户端这类软件还是稍微逊色了点，不过可以保存图片使用关联的编辑器打开，如Win10自带的画图、照片编辑器、3D编辑器等等。都是轻量级没什么占用，也方便~~</p>
+
+
+
+<p></p>
+
+
+
+<p>水完了。。。</p>
+    </article>
+    <ul class="tags">
+        <li><a href="https://www.pishifu.org/archives/tag/windows" rel="tag">Windows</a></li><li><a href="https://www.pishifu.org/archives/tag/%e5%ae%9e%e7%94%a8%e8%bd%af%e4%bb%b6" rel="tag">实用软件</a></li>    </ul>
+    <nav class="nearbypost">
+        <div class="alignleft"><a href="https://www.pishifu.org/archives/210" rel="prev">记自己玩WordPress遇到的问题以及小白解决办法</a></div>
+        <div class="alignright"><a href="https://www.pishifu.org/archives/229" rel="next">WordPress折腾笔记——Github当图床并使用jsDelivr CDN加速图片加载</a></div>
+    </nav>
+    </section><!-- Comments -->
+<section class="comments">
+    <div class="container" data-no-instant>
+        <div id="comments" class="comments-area">
+                    </div>
+        	<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">发表评论 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/archives/216#respond" style="display:none;">取消回复</a></small></h3><form action="https://www.pishifu.org/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">邮箱地址不会被公开。</span> 必填项已用<span class="required">*</span>标注</p><p class="comment-form-author"><label for="author">姓名 <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">电子邮件 <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">站点</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">在此浏览器中保存我的名字、电邮和网站。</label></p>
+<p class="comment-form-comment"><label for="comment">评论</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="发表评论" /> <input type='hidden' name='comment_post_ID' value='216' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="61910d9190" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="206"/></p></form>	</div><!-- #respond -->
+	    </div>
+</section>
+
+<footer class="footer">
+    <section class="container" data-no-instant>
+        <div class="menu"><ul>
+<li class="page_item page-item-145"><a href="https://www.pishifu.org/user">用户中心</a></li>
+<li class="page_item page-item-3"><a href="https://www.pishifu.org/privacy-policy">隐私政策</a></li>
+</ul></div>
+        <div style="display: flex;justify-content: space-between;">
+            <div class='left'>
+                <span>&copy; 2021 <a href="https://www.pishifu.org">皮师傅</a></span>
+                            </div>
+            <div class='right'>
+                <span></span>
+            </div>
+        </div>
+    </section>
+</footer>
+
+<div class="setting_tool iconfont">
+    <a class="back2top" style="display:none;"><i class="czs-arrow-up-l"></i></a>
+            <a class="home" href="https://www.pishifu.org"><i class="czs-home-l"></i></a>
+        <a class="sosearch"><i class="czs-search-l"></i></a>
+    <a class="socolor"><i class="czs-clothes-l"></i></a>
+    <div class="s">
+        <form method="get" action="https://www.pishifu.org" class="search">
+            <input class="search-key" name="s" autocomplete="off" placeholder="输入关键词..." type="text" value="" required="required">
+        </form>
+    </div>
+    <div class="c">
+        <ul>
+            <li class="color undefined">默认</li>
+            <li class="color sepia">护眼</li>
+            <li class="color night">夜晚</li>
+            <li class="hr"></li>
+            <li class="font serif">Serif</li>
+            <li class="font sans">Sans</li>
+        </ul>
+    </div>
+</div>
+
+<script type='text/javascript' id='ajax-comment-js-extra'>
+/* <![CDATA[ */
+var themeAdminAjax = {"url":"https:\/\/www.pishifu.org\/wp-admin\/admin-ajax.php"};
+var ajaxcomment = {"ajax_url":"https:\/\/www.pishifu.org\/wp-admin\/admin-ajax.php","order":"desc","formpostion":"after"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-content/themes/adams/static/ajax-comment.js?ver=v1.5.3' id='ajax-comment-js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-includes/js/comment-reply.min.js?ver=5.6' id='comment-reply-js'></script>
+<script type='text/javascript' id='erphpdown-js-extra'>
+/* <![CDATA[ */
+var erphpdown_ajax_url = "https:\/\/www.pishifu.org\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-content/plugins/erphpdown/static/erphpdown.js?ver=11.2' id='erphpdown-js'></script>
+<script async="async" type='text/javascript' src='https://cdn.jsdelivr.net/gh/piuifu/reshub@f8ce8a1/wp-content/plugins/akismet/_inc/form.js?ver=4.1.7' id='akismet-form-js'></script>
+<script data-no-instant>
+    (function ($) {
+                $.extend({
+            adamsOverload: function () {
+                $(".post_article a").attr("rel", "external");
+                $("a[rel='external']:not([href^='#']),a[rel='external nofollow']:not([href^='#'])").attr("target", "_blank");
+                $("a.vi,.gallery a,.attachment a").attr("rel", "");
+                                $.viewImage({
+                    'target': '.gallery a,.gallery img,.attachment a,.post_article img,.post_article a,a.vi',
+                    'exclude': '.readerswall img,.gallery a img,.attachment a img'
+                });
+                                Lately({
+                    'target': '.commentmetadata a,.infos time,.post-list time'
+                });
+                                prettyPrint();
+                
+                $('ul.links li a').each(function () {
+                    if ($(this).parent().find('.bg').length === 0) {
+                        $(this).parent().append('<div class="bg" style="background-image:url(https://www.google.com/s2/favicons?domain=' + $(this).attr("href") + ')"></div>')
+                    }
+                });
+
+                // * Safari
+                if (navigator.vendor.indexOf("Apple") > -1) {
+                    $("[srcset]").each((index, img) => {
+                        img.outerHTML = img.outerHTML;
+                    });
+                }
+            }
+        });
+    })(jQuery);
+        InstantClick.on('change', function (isInitialLoad) {
+        jQuery.adamsOverload();
+        if (isInitialLoad === false) {
+            // support MathJax
+            if (typeof MathJax !== 'undefined') MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+            // support google code prettify
+            if (typeof prettyPrint !== 'undefined') prettyPrint();
+            // support 百度统计
+            if (typeof _hmt !== 'undefined') _hmt.push(['_trackPageview', location.pathname + location.search]);
+            // support google analytics
+            if (typeof ga !== 'undefined') ga('send', 'pageview', location.pathname + location.search);
+        }
+                if ($('.placard').length) {
+            $.get("https://v1.hitokoto.cn", (data) => {
+                $('.placard').text(data.hitokoto);
+            });
+        }
+            });
+    InstantClick.on('wait', function () {
+        // pjax href click
+    });
+    InstantClick.on('fetch', function () {
+        // pjax begin
+    });
+    InstantClick.on('receive', function () {
+        // pjax end
+    });
+    InstantClick.init('mousedown');
+    </script>
+<!--网站效率：0.298秒内查询了30次数据库-->
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.290 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2021-01-09 11:21:29 -->
+
+<!-- Compression = gzip -->
+<!-- super cache -->
