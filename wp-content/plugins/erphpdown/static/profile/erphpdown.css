@@ -1,4 +1,5 @@
-﻿a{text-decoration:none}
+﻿/* https://www.mobantu.com/1780.html */
+a{text-decoration:none}
 dl{margin-bottom:20px}
 dt,dd{line-height:20px}
 dt{font-weight:bold}
@@ -85,6 +86,7 @@ table{width:100%;background-color:transparent;border-collapse:collapse;border-sp
 .profile-btn{border: none !important;padding: 4px 16px !important;font-size: 14px !important;line-height:20px !important;text-align: center;background: #ff5f33 !important;color: #fff !important;}
 .profile-title{border-bottom:1px solid #eee;color:#ff5f33;font-size: 17px;margin-bottom:10px;font-weight: normal;padding-bottom: 10px;}
 .usercheck{float: right;border: none;padding: 3px 14px;font-size: 12px;text-align: center;background: #ff5f33;color: #FFFFFF !important;border-radius:3px;}
+.profile-content input[type="radio"]{-webkit-appearance: radio !important;}
 @media(max-width: 768px){
 	.pagesidebar{display: block;width: 80px;}
 	.pagesider-menu a{padding:5px 8px;}
