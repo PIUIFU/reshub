@@ -2,7 +2,7 @@
   font-family: 'StrawberryIcon-pro';
   src:  url('fonts/StrawberryIcon-pro.eot?cgglgw');
   src:  url('fonts/StrawberryIcon-pro.eot?cgglgw#iefix') format('embedded-opentype'),
-    url('fonts/StrawberryIcon-pro.ttf?cgglgw') format('truetype'),
+    //url('fonts/StrawberryIcon-pro.ttf?cgglgw') format('truetype'),
     url('fonts/StrawberryIcon-pro.woff?cgglgw') format('woff'),
     url('fonts/StrawberryIcon-pro.svg?cgglgw#StrawberryIcon-pro') format('svg');
   font-weight: normal;
