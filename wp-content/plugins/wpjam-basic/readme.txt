@@ -50,12 +50,17 @@ WPJAM Basic 主要功能，就是去掉 WordPress 当中一些不常用的功能
 
 == Changelog ==
 
-= 5.6.1 =
+= 5.6.2 =
 * 修复 WPJAM_Route 加载错误的 bug
 * 优化定时作业处理
 * 新增函数 wpjam_array_pop
 * 新增函数 wpjam_array_first
 * 新增函数 wpjam_array_excerpt
+* 新增函数 wpjam_get_permastruct
+* 新增函数 wpjam_get_taxonomy_query_key 
+* 新增函数 wpjam_get_post_id_field 
+* 新增函数 wpjam_get_term_id_field 
+* 新增 wpjam_ajax_response filter
 
 = 5.6 = 
 * 跳过 5.5 直接升级到 5.6 和 WordPress 保持一致

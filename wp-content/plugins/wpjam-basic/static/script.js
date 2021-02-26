@@ -461,7 +461,7 @@ jQuery(function($){
 				handle:		'.list-table-move-action',
 
 				create: function(e, ui){
-					if($('.wp-list-table > tbody '+items).length < 3){
+					if($('.wp-list-table > tbody '+items).length < 2){
 						$('.wp-list-table > tbody .move').hide();
 					}
 
@@ -740,10 +740,10 @@ jQuery(function($){
 						if(args.option_action == 'reset'){
 							notice_msg	= '设置已重置。';
 						}else{
-							notice_msg	= '设置已保存。';	
+							notice_msg	= '设置已保存。';
 						}
 					}
-					
+
 					$('.spinner').removeClass('is-active');
 					$('.option-notice').wpjam_notice(notice_msg, 'success');
 
@@ -1154,11 +1154,33 @@ jQuery(function($){
 		});
 	});
 
-	$('body').on('list_table_action_success', function(e){
+	$('body').on('list_table_action_success', function(e,response){
 		$('body img.weixin_img').each(function(index, element){
 			$(this).before(show_wx_img($(this).attr('src'), $(this).attr('width'), $(this).attr('height'), $(this).data('url'))).remove();
 		});
 	});
+
+	if(wpjam_page_setting.screen_base == 'edit'){
+		var wp_inline_edit_function = inlineEditPost.edit;
+
+		inlineEditPost.edit = function(id){
+
+			wp_inline_edit_function.apply(this, arguments);
+
+			if(typeof(id) === 'object'){
+				id = this.getId(id);
+			}
+
+			if(id > 0){
+				var edit_row	= $('#edit-' + id);
+
+				if($('#inline_'+id+' div.post_excerpt').length){
+					var excerpt		= $('#inline_'+id+' div.post_excerpt').text();
+					$(':input[name="the_excerpt"]', edit_row).val(excerpt);
+				}
+			}
+		}
+	}
 });
 
 window.frame_imgs = [];
@@ -1189,6 +1211,5 @@ function show_wx_img(src, iframe_width, iframe_height, url) {
 		return '<iframe id="' + frame_id + '" src="javascript:parent.frame_imgs[\''+frame_id+'\'];" width="100%" frameBorder="0" scrolling="no"></iframe>';
 	}
 }
-
 
 
