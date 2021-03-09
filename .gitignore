@@ -11,9 +11,11 @@
 *.png
 *.jpg
 *.bmp
-!/wp-content/cache/
-!wp-content/cache/
-!/wp-admin/
-!/new_storage/
-!wp-admin/
-!new_storage
+wp-content/cache/
+new_storage/
+wp-admin/
+.user.ini
+*.mp4
+1.txt
+license.txt
+README.md
