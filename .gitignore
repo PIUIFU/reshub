@@ -13,3 +13,7 @@
 *.bmp
 !/wp-content/cache/
 !wp-content/cache/
+!/wp-admin/
+!/new_storage/
+!wp-admin/
+!new_storage
