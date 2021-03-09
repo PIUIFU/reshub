@@ -17,7 +17,7 @@
 	-webkit-font-smoothing: subpixel-antialiased; /* Prevent Safari from switching to standard antialiasing on hover */
 	-moz-osx-font-smoothing: auto; /* Prevent Firefox from inheriting from themes that use other values */
 }
-
+/*123*/
 .rtl #wpadminbar * {
 	font-family: Tahoma, sans-serif;
 }
