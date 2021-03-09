@@ -50,9 +50,12 @@ WPJAM Basic 主要功能，就是去掉 WordPress 当中一些不常用的功能
 
 == Changelog ==
 
-= 5.6.2 =
+= 5.6.3 =
+* 解决文章时间戳相同引起的排序问题
 * 修复 WPJAM_Route 加载错误的 bug
+* 优化所有 List Table
 * 优化定时作业处理
+* 增强 wpjam_get_current_commenter 函数
 * 新增函数 wpjam_array_pop
 * 新增函数 wpjam_array_first
 * 新增函数 wpjam_array_excerpt
